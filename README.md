@@ -4,7 +4,7 @@
 
 + 🔭 Graduated from ITMO university, Saint-Petersburg
 + :heart: Really enjoy programming in Kotlin
-+ :smiley_cat: I'm currently learning C++
++ :smiley_cat: Currently learning C++
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EldarOru&theme=tokyonight"/>
