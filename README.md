@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&lines=Hi!+My+name+is+Eldar"
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&lines=Hi!+My+name+is+Eldar"/>
+</div>
+
++ 🔭 Graduated from ITMO university, Saint-Petersburg
++ :heart: Really enjoy programming in Kotlin
++ :smiley_cat: I'm currently learning C++
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EldarOru&theme=tokyonight"/>
  </div>
