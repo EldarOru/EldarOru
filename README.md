@@ -4,6 +4,7 @@
 
 + 🔭 Graduated from ITMO university, Saint-Petersburg
 + :heart: Really enjoy programming in Kotlin
++ 🌱 Everyday trying to write better code
 + :smiley_cat: Currently looking for a job
 
 <div align="center">
