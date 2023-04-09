@@ -5,7 +5,6 @@
 + 🔭 Graduated from ITMO university, Saint-Petersburg
 + :heart: Really enjoy programming in Kotlin
 + 🌱 Everyday trying to write better code
-+ :smiley_cat: Currently looking for a job
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EldarOru&theme=tokyonight"/>
