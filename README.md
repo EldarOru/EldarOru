@@ -5,6 +5,7 @@
 + 🔭 Graduated from ITMO university, Saint-Petersburg
 + :heart: Really enjoy programming in Kotlin
 + 🌱 Everyday trying to write better code
++ ✉️ if you want to contact me – eldarisoru@gmail.com
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EldarOru&theme=tokyonight"/>
